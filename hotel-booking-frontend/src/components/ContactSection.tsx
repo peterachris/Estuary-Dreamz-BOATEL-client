@@ -57,10 +57,10 @@ const ContactSection = () => {
                 <div className="text-slate-900">
                   <b>Email:</b>{" "}
                   <a
-                    href="mailto:info@estuarydreamzboatel.com"
+                    href="mailto:ed.boatel@star13.in"
                     className="underline"
                   >
-                    info@estuarydreamzboatel.com
+                    ed.boatel@star13.in
                   </a>
                 </div>
               </div>
